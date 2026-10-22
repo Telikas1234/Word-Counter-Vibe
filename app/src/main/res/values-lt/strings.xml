@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Žodžių skaičiuoklė</string>
+    <string name="input_label">Tekstas analizei</string>
+    <string name="input_placeholder">Įveskite arba įklijuokite tekstą čia...</string>
+    <string name="btn_calculate">Skaičiuoti</string>
+    <string name="btn_sample">Pavyzdinis tekstas</string>
+    <string name="btn_clear">Išvalyti</string>
+    <string name="metric_sentences">Sakiniai</string>
+    <string name="metric_words">Žodžiai</string>
+    <string name="metric_marks">Rašybos ženklai</string>
+    <string name="metric_numbers">Skaičiai</string>
+    <string name="empty_input_warning">Prieš skaičiuodami įveskite tekstą!</string>
+    <string name="history_title">Skaičiavimų istorija</string>
+    <string name="history_empty">Istorija tuščia. Įveskite tekstą ir spauskite Skaičiuoti.</string>
+    <string name="results_title">Dabartiniai rezultatai</string>
+</resources>

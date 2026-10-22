@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Word Counter</string>
+    <string name="input_label">Text to analyze</string>
+    <string name="input_placeholder">Enter or paste text here...</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_sample">Sample Text</string>
+    <string name="btn_clear">Clear</string>
+    <string name="metric_sentences">Sentences</string>
+    <string name="metric_words">Words</string>
+    <string name="metric_marks">Writing Marks</string>
+    <string name="metric_numbers">Numbers</string>
+    <string name="empty_input_warning">Please enter text before calculating!</string>
+    <string name="history_title">Calculation History</string>
+    <string name="history_empty">No calculations yet. Enter text and click Calculate.</string>
+    <string name="results_title">Current Results</string>
+</resources>
